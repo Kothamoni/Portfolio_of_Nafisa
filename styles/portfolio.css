@@ -15,7 +15,7 @@
 .btn{
     background-color: #FD6E0A;
     color:white;
-    
+    cursor: pointer;
     padding:18px 35px; /* TBLR */
     border-radius:5px;
     border:none;
@@ -32,7 +32,9 @@
 /*main style */
 
 header{
-   
+   background: url('../images/developer.png'),url(../images/header_bg.png),#FFF8F3;
+    background-position:top left , bottom right;
+   background-repeat: no-repeat;
     background-color: #FFF8F3;
     padding-top: 50px;
     
@@ -60,4 +62,47 @@ nav .menu a{
     font-size: 20px;
     color:#474747;
     text-decoration: none;
+}
+#banner{
+    display:flex;
+    margin:47px 38px 0 230px;
+    justify-content: space-between;
+    align-items: center; 
+}
+    
+#banner .banner-content{
+    max-width:585px;
+}
+
+#banner .banner-content h3{
+    font-size: 45px;
+    font-weight:600;
+    color:#474747;
+    margin-bottom:5px ;
+
+    } 
+
+#banner .banner-content h2{
+    font-size: 80px;
+    font-weight: bold;
+    color:#181818;
+   margin-bottom:20px ;
+    
+
+}
+#banner.banner-content p{
+  font-size:18px;
+  color:#757575;
+  line-height: 35px;
+  margin-bottom:5px;
+}
+
+#banner .banner-content hero-btn{
+display:flex;
+justify-content: space-between;
+align-items: center;
+
+}
+#banner .banner-image img {
+      vertical-align:middle;
 }
