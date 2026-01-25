@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="" alt="GitHub Banner"/>
+  <img src="images/banner.png" alt="GitHub Banner"/>
 </p>
 
 🧭 About Me
