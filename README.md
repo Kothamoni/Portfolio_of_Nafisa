@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Umme Nafisa Anzum Kotha</h1>
-<h3 align="center">Aspiring Full Stack Developer | Backend-Focused | AI-Driven Web Enthusiast</h3>
+<h3 align="center">Aspiring Full Stack Developer | Building Intelligent Web Applications with AI & ML</h3>
 
 ---
 
