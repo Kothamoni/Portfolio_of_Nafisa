@@ -1,91 +1,141 @@
-
 <p align="center">
-  <img src="images/banner.png" alt="GitHub Banner"/>
+  <img src="images/banner.png" alt="GitHub Banner" />
 </p>
 
-🧭 About Me
+<h1 align="center">Hi 👋, I'm Umme Nafisa Anzum Kotha</h1>
+<h3 align="center">Aspiring Full Stack Developer | Backend-Focused | AI-Driven Web Enthusiast</h3>
 
-Passionate web developer focused on building interactive, responsive, and user-friendly web applications. I enjoy solving real-world problems through clean architecture, efficient code, and thoughtful design.
+---
 
-I have a strong interest in AI-powered web applications, where data, logic, and modern web technologies come together. I love taking on challenges that push me to learn continuously and improve as a developer.
+## 🧭 About Me
 
-🛠️ Current Activities
+I am a passionate web developer focused on building scalable, efficient, and user-friendly web applications. I enjoy solving real-world problems through clean backend architecture, secure authentication systems, and thoughtful UI design.
 
-🔭 Working on Next.js-based full-stack projects
+I am particularly interested in **AI-powered web applications**, where intelligent systems integrate with modern backend technologies to create meaningful digital solutions.
 
-🌱 Exploring AI integration in modern web applications
+I continuously challenge myself to learn new technologies and improve my problem-solving ability through hands-on development.
 
-🧠 Learning system design, performance optimization, and backend logic
+---
 
-📚 Continuously improving skills through hands-on projects and experimentation
+## 🛠️ Current Activities
+
+- 🔭 Building full-stack applications using **Node.js, Express, and MongoDB**
+- 🌱 Currently learning **React and Next.js** for modern frontend development
+- 🧠 Exploring **AI integration** in web systems
+- 📚 Improving backend logic, authentication, and system design concepts
+
+---
 
 ## 💻 Tech Stack
 
 ### 🧠 Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva)
+C • C++ • Java • JavaScript • HTML5 • CSS3 • Python  
 
 ### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens)
+Node.js • Express.js • MongoDB • MySQL • Firebase • JWT  
+
+### 🎨 Frontend & Styling
+Tailwind CSS  
 
 ### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify)
+Git • GitHub • Postman • Jira • Trello • Vercel • Netlify • Figma • Canva  
 
-## 🚀 Featured Projects
+---
 
-> Selected projects showcasing my skills in full-stack development, problem-solving, and AI-integrated web applications.
+# 🚀 Featured Projects
 
+---
 
+### 🔹 Metro Booking & Management Web Application  
+**Full-stack urban transit platform**
 
+- Ride booking & fare calculation  
+- Secure JWT authentication  
+- QR-based digital ticket system  
+- OTP verification & user dashboard  
 
+**Tech Used:** Node.js, Express.js, MongoDB, Firebase, Tailwind CSS  
 
-- 🔹 **Metro  Booking & Management Wee Application**  
-  📌 Web app for ride booking, live fare calculation, and QR-based tickets.  
-  🛠️ Tech: ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss)  
-  🔗 [Live Demo](https://mrt-web-app-delta.vercel.app/) | [GitHub Repo](#https://github.com/Kothamoni/MrtWebApp)
+🔗 Live Demo: https://mrt-web-app-delta.vercel.app/  
+💻 GitHub: https://github.com/Kothamoni/MrtWebApp  
 
-- 🔹 **Banglar Tesla-Rickshaw Booking Web_Application**  
-  📌 Electric vehicle dashboard & analytics platform for EV performance and monitoring in Bangladesh.  
-  🛠️ Tech: ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss)  
-  🔗 [Live Demo](https://banglar-teshla-rickshaw-booking-app.vercel.app/) | [GitHub Repo](#https://github.com/Kothamoni/Banglar-Teshla-Rickshaw-Booking-App-)
+---
 
-  - 🔹 **Dental Clinic Management System**  
-  📌 Full-stack web app to manage appointments, patients, and doctors efficiently.  
-  🛠️ Tech: ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss)  
-  🔗 [Live Demo] (https://dentist-web-application.vercel.app/)) | [GitHub Repo](#https://github.com/Kothamoni/Dentist-Web-Application)
+### 🔹 Banglar Teshla Rickshaw Booking Web Application  
+**Electric rickshaw booking and monitoring system**
 
-  - 🔹 **Study Material Detection with AI**  
-  📌 AI-powered web app to detectdifferent types of study materials(cheat sheet,) using **TensorFlow** models.  
-  🛠️ Tech: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)  
-  🔗 [Live Demo](https://study-material-detector-using-ai-d9.vercel.app/) | [GitHub Repo](#https://github.com/Kothamoni/Study-Material-Detector-Using-AI)
+- Real-time booking logic  
+- User authentication  
+- Booking management system  
+- Smart fare calculation  
 
+**Tech Used:** Node.js, Express.js, MongoDB, Firebase, Tailwind CSS  
 
-🌐 Socials
+🔗 Live Demo: https://banglar-teshla-rickshaw-booking-app.vercel.app/  
+💻 GitHub: https://github.com/Kothamoni/Banglar-Teshla-Rickshaw-Booking-App-  
 
-📧 Email: kothajannat17@gmail.com
+---
 
-💼 LinkedIn: www.linkedin.com/in/umme-nafisa-anzum-kotha-2063581ba
+### 🔹 Dental Clinic Management System  
+**Full-stack clinic management platform**
 
-🌍 Portfolio: (https://portfolio-of-nafisa.vercel.app/)
+- Appointment scheduling  
+- Patient & doctor record management  
+- Admin dashboard  
+- Backend data handling  
+
+**Tech Used:** Node.js, Express.js, MongoDB, Tailwind CSS  
+
+🔗 Live Demo: https://dentist-web-application.vercel.app/  
+💻 GitHub: https://github.com/Kothamoni/Dentist-Web-Application  
+
+---
+
+### 🔹 Study Material Detection with AI  
+**AI-powered classification web app**
+
+- Detects types of study materials  
+- TensorFlow-based model integration  
+- Flask backend API  
+- Real-time prediction system  
+
+**Tech Used:** Python, TensorFlow, Flask  
+
+🔗 Live Demo: https://study-material-detector-using-ai-d9.vercel.app/  
+💻 GitHub: https://github.com/Kothamoni/Study-Material-Detector-Using-AI  
+
+---
+
+## 📈 What I Bring
+
+- Strong backend fundamentals  
+- Clean API architecture  
+- Secure authentication implementation  
+- Problem-solving mindset  
+- Continuous learning attitude  
+- Team collaboration & project management exposure  
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: kothajannat17@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/umme-nafisa-anzum-kotha-2063581ba  
+🌍 Portfolio: https://portfolio-of-nafisa.vercel.app/  
+
+---
+
+## 🎯 Career Goal
+
+I am actively seeking a **Full Stack Developer Internship** where I can:
+
+- Contribute to real-world production systems  
+- Strengthen backend engineering skills  
+- Work with experienced developers  
+- Transition into a long-term full-time opportunity  
+
+---
+
+<p align="center">
+  ⭐ If you find my projects interesting, feel free to explore and connect!
+</p>
