@@ -61,25 +61,25 @@ I have a strong interest in AI-powered web applications, where data, logic, and 
 
 
 
-- 🔹 **Metro Ride Booking App**  
+- 🔹 **Metro  Booking & Management Wee Application**  
   📌 Web app for ride booking, live fare calculation, and QR-based tickets.  
   🛠️ Tech: ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss)  
-  🔗 [Live Demo](https://mrt-web-app-delta.vercel.app/) | [GitHub Repo](#)
+  🔗 [Live Demo](https://mrt-web-app-delta.vercel.app/) | [GitHub Repo](#https://github.com/Kothamoni/MrtWebApp)
 
-- 🔹 **Banglar-Tesla**  
+- 🔹 **Banglar Tesla-Rickshaw Booking Web_Application**  
   📌 Electric vehicle dashboard & analytics platform for EV performance and monitoring in Bangladesh.  
   🛠️ Tech: ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss)  
-  🔗 [Live Demo](https://banglar-teshla-rickshaw-booking-app.vercel.app/) | [GitHub Repo](#)
+  🔗 [Live Demo](https://banglar-teshla-rickshaw-booking-app.vercel.app/) | [GitHub Repo](#https://github.com/Kothamoni/Banglar-Teshla-Rickshaw-Booking-App-)
 
   - 🔹 **Dental Clinic Management System**  
   📌 Full-stack web app to manage appointments, patients, and doctors efficiently.  
   🛠️ Tech: ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss)  
-  🔗 [Live Demo](https://dental-patient-web-application.vercel.app/) | [GitHub Repo](#)
+  🔗 [Live Demo] (https://dentist-web-application.vercel.app/)) | [GitHub Repo](#https://github.com/Kothamoni/Dentist-Web-Application)
 
   - 🔹 **Study Material Detection with AI**  
   📌 AI-powered web app to detectdifferent types of study materials(cheat sheet,) using **TensorFlow** models.  
   🛠️ Tech: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)  
-  🔗 [Live Demo](https://study-material-detector-using-ai-d9.vercel.app/) | [GitHub Repo](#)
+  🔗 [Live Demo](https://study-material-detector-using-ai-d9.vercel.app/) | [GitHub Repo](#https://github.com/Kothamoni/Study-Material-Detector-Using-AI)
 
 
 🌐 Socials
@@ -88,4 +88,4 @@ I have a strong interest in AI-powered web applications, where data, logic, and 
 
 💼 LinkedIn: www.linkedin.com/in/umme-nafisa-anzum-kotha-2063581ba
 
-🌍 Portfolio: (https://kothamoni.github.io/Portfolio_of_Nafisa/)
+🌍 Portfolio: (https://portfolio-of-nafisa.vercel.app/)
