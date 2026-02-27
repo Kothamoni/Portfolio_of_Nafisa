@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/latest_banner" alt="GitHub Banner" />
+  <img src="images/latest_banner.png" alt="GitHub Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Umme Nafisa Anzum Kotha</h1>
